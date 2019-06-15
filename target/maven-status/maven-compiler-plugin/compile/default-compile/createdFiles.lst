@@ -1,0 +1,7 @@
+com\letsstartcoding\springbootrestapiexample\model\Simple.class
+com\letsstartcoding\springbootrestapiexample\repository\SimpleRepository.class
+com\letsstartcoding\springbootrestapiexample\controller\HsdpController.class
+com\letsstartcoding\springbootrestapiexample\HsdpApplication.class
+com\letsstartcoding\springbootrestapiexample\model\Hsdp.class
+com\letsstartcoding\springbootrestapiexample\repository\HsdpRepository.class
+com\letsstartcoding\springbootrestapiexample\dao\HsdpDAO.class
